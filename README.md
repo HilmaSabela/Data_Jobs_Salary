@@ -8,8 +8,6 @@
 ## Project Overview
 This project is about analyzing salaries for jobs in the data field. The purpose of the analysis is to find out information about salaries, average salaries according to experience level, and types of work in the data field that have the most interest among surveyors.
 
-![alt text](image.PNG)
-
 ## Data Sources
 The data source used in this project is "salaries.csv" which contains detailed information to be used in the analysis.
  - [Download Data File Source](https://github.com/HilmaSabela/Data_Jobs_Salary/blob/main/salaries.csv)
@@ -62,6 +60,8 @@ In this phase, there are some steps that I do to analyze the data:
 - What types of jobs fill the survey the most?
 
 ## Results / Findings
+![alt text](image.PNG)
+
 From the results of the analysis using Power BI software, summarize the following results:
 1. Salaries in the data field from 2020 - 2021 have decreased, but from 2021 - 2023 they have increased significantly. This shows that jobs in the data field are in high demand. 
 2. The experience level with the highest average salary is the executive level with an average salary of more than 190K US dollars per year.
