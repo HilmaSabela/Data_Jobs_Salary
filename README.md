@@ -59,7 +59,7 @@ In this phase, there are some steps that I do to analyze the data:
 - What experience level has the highest average salary?
 - What types of jobs fill the survey the most?
 
-## Results / Findings
+## Results
 ![alt text](image.PNG)
 
 From the results of the analysis using Power BI software, summarize the following results:
