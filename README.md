@@ -15,10 +15,8 @@ The data source used in this project is "salaries.csv" which contains detailed i
  - [Download Data File Source](https://github.com/HilmaSabela/Data_Jobs_Salary/blob/main/salaries.csv)
 
 ## Tool
-1. SQL 
- - Cleaning and Transforming Data 
-2. Power BI
- - Analyzing and Visualizing Data
+1. SQL --> Cleaning and Transforming Data 
+2. Power BI --> Analyzing and Visualizing Data
 
 Here are some interesting codes/features worked with in SQL :
 ``` sql
