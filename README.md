@@ -3,7 +3,7 @@
 ## Table of Content 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Result](#result-/-findings)
+- [Results](#results)
 
 ## Project Overview
 This project is about analyzing salaries for jobs in the data field. The purpose of the analysis is to find out information about salaries, average salaries according to experience level, and types of work in the data field that have the most interest among surveyors.
